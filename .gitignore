@@ -1,0 +1,19 @@
+# Byte-compiled / optimized / DLL files
+*.lgt_tmp*
+
+# Distribution / packaging
+
+# Unit test / coverage reports
+*logtalk_tester_logs*
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ctags
+tags
