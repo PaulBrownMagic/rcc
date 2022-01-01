@@ -6,7 +6,7 @@
 	]),
 	logtalk_load(lgtunit(loader)),
 	logtalk_load([
-		rcc
+		rcc8
 	], [
 		source_data(on),
 		debug(on)

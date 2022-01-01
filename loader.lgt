@@ -4,7 +4,7 @@
 	logtalk_load([ % Dependencies
 	]),
 	logtalk_load([ % Application
-		rcc
+		rcc8
 	], [
 	  % optimize(on)
 	])
